@@ -4,7 +4,7 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
 ## Live Demo
 
-[View My Portfolio](https://surajrawat1603.github.io/personal_portfolio/)
+[View My Portfolio](https://vikasrawat1603.github.io/personal_portfolio/)
 
 ## Technologies Used
 
@@ -23,4 +23,4 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 
 Vikas Rawat
 
-[GitHub Profile](https://github.com/surajrawat1603)
+[GitHub Profile](https://github.com/vikasrawat1603)
